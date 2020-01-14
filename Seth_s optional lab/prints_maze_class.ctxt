@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=prints_maze_class
+comment1.params=maze
+comment1.target=void\ printmaze(int[][])
+comment2.params=
+comment2.target=void\ main()
+numComments=3
